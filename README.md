@@ -14,7 +14,7 @@ Your work will enable healthcare providers to better identify the origins of blo
 * Pipeline ViT model 
 ![](https://github.com/phanben110/Vin_CVFinalProject/blob/master/report/Vit.png) 
 
-[Video Demo](https://www.youtube.com/watch?v=WiIC_UjOM_0) 
+[Video Demo](https://www.youtube.com/watch?v=_jtyoFoEVEk) 
 
 ## Authors
 
