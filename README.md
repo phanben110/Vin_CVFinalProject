@@ -8,10 +8,13 @@ The goal of this competition is to classify the blood clot origins in ischemic s
 Your work will enable healthcare providers to better identify the origins of blood clots in deadly strokes, making it easier for physicians to prescribe the best post-stroke therapeutic management and reducing the likelihood of a second stroke.<br/>
 
 
-## Video demo ViT model
-[Video Demo](https://www.youtube.com/watch?v=WiIC_UjOM_0) 
+## ViT model
+* Split image into patchs
+![](https://github.com/phanben110/Vin_CVFinalProject/blob/master/report/Patchs.png)
+* Pipeline ViT model 
+![](https://github.com/phanben110/Vin_CVFinalProject/blob/master/report/Vit.png) 
 
-Contact us if you have any problem
+[Video Demo](https://www.youtube.com/watch?v=WiIC_UjOM_0) 
 
 ## Authors
 
